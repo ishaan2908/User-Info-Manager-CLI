@@ -1,7 +1,6 @@
 # User Info Manager CLI
 
 ### A Command Line Interface for managing Users
-<br>
 
 ### Run:
 ```
@@ -13,7 +12,6 @@ It will install Mongoose, Commander, Inquirer.
 npm link
 ```
 It creates a symlink
-<br>
 
 ### You can use the following commands:
 <pre>
