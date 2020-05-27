@@ -22,8 +22,10 @@ It creates a symlink
 - remove|r <id>   Remove a User
 </pre>
 
+
+Example:<br>
+To add a User:
 ```
-Example: To add a User:
 user-cli add
-This will then prompt you with different required questions.
 ```
+This command will then prompt you with different required questions.
